@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9984ed93-d775-4c70-9bd2-a56ec5634fb1",
+    "name": "Antti",
+    "age": 32,
+    "position": "Tester"
+  },
+  {
+    "id": "574b357f-4580-4f7f-a0d8-6ac2415e8dd7",
+    "name": "Avinash",
+    "age": 29,
+    "position": "Software developer"
+  },
+  {
+    "id": "0d03a9aa-836c-4775-a297-3b2fc3426873",
+    "name": "Sanna",
+    "age": 31,
+    "position": "QA"
+  },
+  {
+    "id": "efab4b70-7fcd-4ec4-ac6f-7b04120b15a0",
+    "name": "Sanna",
+    "age": 31,
+    "position": "QA"
+  }
+]
